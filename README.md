@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @olivervr3
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning programming in rust.
-- 💞️ I’m looking to collaborate on any project related with the rust language comunity.
+- 🌱 I’m currently learning programming in C#.
 - 📫 How to reach me, by telegram! https://www.linkedin.com/in/ovincent-rice/
 
 <!---
