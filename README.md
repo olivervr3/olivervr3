@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olivervr3
+- 👋 Hi, I’m Oliver Vincent Rice
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning programming in C#.
 - 📫 How to reach me, by telegram! https://www.linkedin.com/in/ovincent-rice/
